@@ -36,6 +36,7 @@ public class Algo5 {
         // System.out.println("nums = " + Arrays.toString(charachters));
         String textString = new String(charachters);
         System.out.println(textString);
+        
     }
 }
     
